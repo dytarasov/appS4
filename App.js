@@ -1,7 +1,5 @@
 import 'react-native-gesture-handler';
 import React from 'react';
-//import {NavigationContainer} from '@react-navigation/native';
-import DefaultStackNavigation from './src/navigation';
 import {
   StyleSheet,
   Text,
@@ -14,11 +12,7 @@ import {
 
 const App = () => {
   return (
-    <>
-      <View><Text></Text></View>
-        <DefaultStackNavigation />
-      
-    </>
+      <View><Text>sofdfdfvdfddfdfdfdffdme</Text></View>
   );
 };
 
