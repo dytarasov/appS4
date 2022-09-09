@@ -12,7 +12,7 @@ import {
 
 const App = () => {
   return (
-      <View><Text>sofdfdfvdfddfdfdfdffdme</Text></View>
+      <View><Text>test</Text></View>
   );
 };
 
